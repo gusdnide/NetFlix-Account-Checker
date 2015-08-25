@@ -1,0 +1,11 @@
+E:\Projeto\Novos Projetos2\Verificar Contas\Verificar Contas\bin\Release\Verificar Contas.exe.config
+E:\Projeto\Novos Projetos2\Verificar Contas\Verificar Contas\bin\Release\Verificar Contas.exe
+E:\Projeto\Novos Projetos2\Verificar Contas\Verificar Contas\bin\Release\Verificar Contas.pdb
+E:\Projeto\Novos Projetos2\Verificar Contas\Verificar Contas\bin\Release\Verificar Contas.xml
+E:\Projeto\Novos Projetos2\Verificar Contas\Verificar Contas\obj\Release\Verificar_Contas.Form1.resources
+E:\Projeto\Novos Projetos2\Verificar Contas\Verificar Contas\obj\Release\Verificar_Contas.Resources.resources
+E:\Projeto\Novos Projetos2\Verificar Contas\Verificar Contas\obj\Release\Verificar Contas.vbproj.GenerateResource.Cache
+E:\Projeto\Novos Projetos2\Verificar Contas\Verificar Contas\obj\Release\Verificar Contas.exe
+E:\Projeto\Novos Projetos2\Verificar Contas\Verificar Contas\obj\Release\Verificar Contas.xml
+E:\Projeto\Novos Projetos2\Verificar Contas\Verificar Contas\obj\Release\Verificar Contas.pdb
+E:\Projeto\Novos Projetos2\Verificar Contas\Verificar Contas\obj\Release\Verificar Contas.vbprojResolveAssemblyReference.cache
